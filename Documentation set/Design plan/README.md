@@ -1,0 +1,1 @@
+In our [Design Plan](https://gitlab.ewi.tudelft.nl/ewi3615tu/2019-2020/data/ewi3615tu-ds10/ewi3615tu-ds10/blob/master/Documentation%20set/Design%20plan/Design%20plan.md) , our software's structure is visualised, the methods and tools we used during our project are described (including our considerations regarding these) and an overview of our validation method is given.
